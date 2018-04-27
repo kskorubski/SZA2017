@@ -1,0 +1,1 @@
+<?php $this->renderPartial('woj_edytuj_numer_form', array('model'=>$model)); ?>
