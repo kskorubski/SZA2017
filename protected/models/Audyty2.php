@@ -23,6 +23,7 @@
  * @property EtykietaAnalogowa[] $etykietaAnalogowas
  * @property EtykietaCyfrowa[] $etykietaCyfrowas
  */
+//A tutaj inny komentarz
 class Audyty2 extends CActiveRecord
 {
     
