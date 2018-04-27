@@ -23,9 +23,7 @@
  * @property EtykietaAnalogowa[] $etykietaAnalogowas
  * @property EtykietaCyfrowa[] $etykietaCyfrowas
  */
-//TEST BRANCHA
-//A tutaj inny komentarz
-//a tutaj komentarz zrobiony w gicie na stronie 
+
 class Audyty2 extends CActiveRecord
 {
     
