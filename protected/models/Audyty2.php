@@ -24,6 +24,7 @@
  * @property EtykietaCyfrowa[] $etykietaCyfrowas
  */
 //TEST BRANCHA
+//A tutaj inny komentarz
 class Audyty2 extends CActiveRecord
 {
     
