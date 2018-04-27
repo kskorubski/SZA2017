@@ -23,6 +23,7 @@
  * @property EtykietaAnalogowa[] $etykietaAnalogowas
  * @property EtykietaCyfrowa[] $etykietaCyfrowas
  */
+//TEST BRANCHA
 class Audyty2 extends CActiveRecord
 {
     
