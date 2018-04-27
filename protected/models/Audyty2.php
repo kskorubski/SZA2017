@@ -26,7 +26,6 @@
 
 class Audyty2 extends CActiveRecord
 {
-    
     public $nazwa; //osrodek.nazwa
     public $adres; //osrodek.adres
     public $miasto; //osrodek.miasto
